@@ -56,4 +56,18 @@ body {
     background-image: url("htthttps://ph-files.imgix.net/651adc69-1ed9-47b3-8f6f-3a83ed0e2322?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=388.7962962962963&h=221&fit=maxps://i.imhttps://i.gifer.com/29ul.gifgur.com/RuJYgPu.gif?noredirect");
 }
 
-.footer {}
+ .container .icon {
+     position: relative;
+     float: right;
+     margin-left: 24px;
+     margin-top: -28px;
+     z-index: 4;
+     color: #222222;
+ }
+
+ .container form {
+     background-color: white;
+     color: #888888;
+     text-align: left;
+     padding-top: 20px;
+ }
